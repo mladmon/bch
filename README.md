@@ -16,7 +16,7 @@ To run the script, simply run the following command in the MATLAB interpreter:
 
 You should get the following output:
 
-![alt text](bch_code.png)
+![alt text](images/bch_code.png)
 
 This example demonstrates how a 31-bit codeword endures 3 errors during transmission, and how these errors are subsequently detected and corrected in the received codeword. Note, you can change the bits that get flipped during transmission by modifying the assignments on lines 46-48. For example, try changing them to:
 
